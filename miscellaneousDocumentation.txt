@@ -1,0 +1,51 @@
+The original HTML table cells are indexed like so:
+    Address	0
+    Style	1
+    Stories	2
+    Year Built	3
+    Living Area 1st Floor (sq ft)	4
+    Bedrooms	5
+    Finished Basement	6
+    Garage 1 (sq ft)	7
+    Sale Date	8
+    Sales Price	9
+    Parcel Number	10
+    Blank	11
+    Units	12
+    Blank	13
+    Living Area 2nd Floor (sq ft)	14
+    Full Baths	15
+    Blank	16
+    Garage 2 (sq ft)	17
+    Blank	18
+    Blank	19
+    Blank	20
+    Blank	21
+    Blank	22
+    Blank	23
+    Living Area 3rd Floor (sq ft)	24
+    Half Baths	25
+    Finished Attic	26
+    Blank	27
+    Blank	28
+formatted data table has the following index format:
+    Address	0
+    Style	1
+    Stories	2
+    Year Built	3
+    Living Area 1st Floor (sq ft)	4
+    Bedrooms	5
+    Finished Basement	6
+    Garage 1 Type	7
+    Garage 1 Size (sq ft)	8
+    Sale Date	9
+    Sales Price	10
+    Parcel Number	11
+    Units	12
+    Living Area 2nd Floor (sq ft)	13
+    Full Baths	14
+    Garage 2 Type	15
+    Garage 2 Size (sq ft)	16
+    Living Area 3rd Floor (sq ft)	17
+    Half Baths	18
+    Finished Attic	19
